@@ -10,3 +10,17 @@
 ## 非商业性质
 ## 也希望学习者尊重原著
 
+ ## 关注 Java有货领取更多资料
+**联系小编。微信：372787553，带您进群互相学习**
+**左侧小编微信，右侧获取免费资料**
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20191119222657813.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zODkzNzg0MA==,size_16,color_FFFFFF,t_70)
+
+**技术博客：[https://blog.csdn.net/weixin_38937840](https://blog.csdn.net/weixin_38937840)**
+
+**SpringCloud学习代码： [https://github.com/Dylan-haiji/javayh-cloud](https://github.com/Dylan-haiji/javayh-cloud)**
+
+**Redis、Mongo、Rabbitmq、Kafka学习代码： [https://github.com/Dylan-haiji/javayh-middleware](https://github.com/Dylan-haiji/javayh-middleware)**
+
+**AlibabaCloud学习代码：[https://github.com/Dylan-haiji/javayh-cloud-nacos](https://github.com/Dylan-haiji/javayh-cloud-nacos)**
+
+**SpringBoot+SpringSecurity实现自定义登录学习代码：[https://github.com/Dylan-haiji/javayh-distribution](https://github.com/Dylan-haiji/javayh-distribution)**
